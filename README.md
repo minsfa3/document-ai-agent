@@ -1,4 +1,3 @@
-Attempting to perform the InitializeDefaultDrives operation on the 'FileSystem' provider failed.
 # document-ai-agent
 
 Windows에서 실행하는 문서 자동화 CLI입니다.
@@ -59,4 +58,3 @@ npm run dev -- approve <RUN_ID> --output "C:\문서\최종보고서.md"
 - DOCX/XLSX/PPTX 렌더러와 시각 검수
 - 재작성 1회 제한 및 변경점 중심 검수
 - 단일 Windows 실행 파일 패키징
-
